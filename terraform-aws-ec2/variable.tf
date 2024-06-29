@@ -1,6 +1,6 @@
 variable "instance_type" {
   description = "vm 인스턴스 타입 정의"
-  default     = "t2.micro"
+  default     = "t3.micro"
 }
 
 variable "instance_name" {
